@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "name": "sampleFunction",
+    "private": false
+  }
+]
