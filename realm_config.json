@@ -1,0 +1,8 @@
+{
+    "app_id": "demo-zewld",
+    "config_version": 20210101,
+    "name": "Demo",
+    "location": "IN-MB",
+    "deployment_model": "LOCAL",
+    "environment": "testing"
+}
