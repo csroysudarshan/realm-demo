@@ -1,10 +1,10 @@
 [
-  {
-    "name": "sampleFunction",
-    "private": false
-  },
-  {
-    "name": "anotherFunction",
-    "private": false
-  }
+    {
+        "name": "anotherFunction",
+        "private": false
+    },
+    {
+        "name": "sampleFunction",
+        "private": false
+    }
 ]

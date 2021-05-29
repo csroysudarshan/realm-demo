@@ -1,10 +1,10 @@
 {
-  "id": "60181eb8afd5ad9e45261ab7",
-  "name": "DayEndStatisticsCalculation",
-  "type": "SCHEDULED",
-  "config": {
-    "schedule": "31 18 * * *"
-  },
-  "function_name": "sampleFunction",
-  "disabled": false
+    "id": "60b1ec594106b5d35ab435f0",
+    "name": "DayEndStatisticsCalculation",
+    "type": "SCHEDULED",
+    "config": {
+        "schedule": "31 18 * * *"
+    },
+    "function_name": "sampleFunction",
+    "disabled": false
 }
