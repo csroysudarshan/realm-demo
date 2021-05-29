@@ -6,5 +6,14 @@
     {
         "name": "sampleFunction",
         "private": false
+    },
+    {
+        "name": "thirdFunction",
+        "private": true,
+        "run_as_system": true,
+        "can_evaluate": {
+            "test": "test"
+        },
+        "disable_arg_logs": true
     }
 ]
