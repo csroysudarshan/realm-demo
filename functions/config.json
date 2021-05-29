@@ -2,5 +2,9 @@
   {
     "name": "sampleFunction",
     "private": false
+  },
+  {
+    "name": "anotherFunction",
+    "private": false
   }
 ]
